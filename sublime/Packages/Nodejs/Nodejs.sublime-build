@@ -1,0 +1,19 @@
+{
+  "cmd": ["D:\\soft\\nodejs\\node.exe", "$file"],
+  "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+  "selector": "source.js",
+  "shell": true,
+  "encoding": "utf8",
+  "windows":
+    {
+        "cmd": ["D:\\soft\\nodejs\\node.exe","$file"]
+    },
+    "linux":
+    {
+        "shell_cmd": "killall node; /usr/bin/env node $file"
+    },
+    "osx":
+    {
+        "shell_cmd": "killall node; /usr/bin/env node $file"
+    }
+}

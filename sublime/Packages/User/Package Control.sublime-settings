@@ -1,0 +1,56 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPick",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSS3",
+		"CTags",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"Git GUI Clients",
+		"GitGutter",
+		"HMpTy Snippets",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"IMESupport",
+		"Jimbly's Clipboard History",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"Material Theme",
+		"Nil-Theme",
+		"Nodejs",
+		"Package Control",
+		"PackageResourceViewer",
+		"Predawn",
+		"Pretty JSON",
+		"PyV8",
+		"Seti_UI",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"View In Browser",
+		"ZZZ"
+	]
+}

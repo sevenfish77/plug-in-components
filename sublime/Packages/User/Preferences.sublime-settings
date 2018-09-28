@@ -1,0 +1,27 @@
+{
+	"color_scheme": "Packages/afterglow-theme-master/Afterglow-twilight.tmTheme",
+	"debug": true,
+	"dpi_scale": 1.0,
+	"draw_centered": true,
+	"draw_indent_guides": false,
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"bold",
+		"gdi"
+	],
+	"font_size": 12.5,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 2,
+	"predawn_sidebar_arrows": false,
+	"tabs_medium": true,
+	"theme": "predawn-DEV.sublime-theme",
+	"trim_trailing_white_space_on_save": false,
+	"update_check": false,
+	"word_wrap": true,
+	"wrap_width": 100
+}
